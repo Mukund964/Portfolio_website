@@ -1,0 +1,64 @@
+/* Global styles */
+
+body {
+    font-family: "Helvetica Neue", sans-serif;
+    color: #333;
+  }
+  
+  a {
+    color: #00b0ff;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: #0091e3;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+  }
+  
+  /* Navbar styles */
+  
+  .navbar {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand {
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #00b0ff;
+  }
+  
+  .nav-item {
+    font-size: 0.9em;
+  }
+  
+  /* Jumbotron styles */
+  
+  .jumbotron {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .jumbotron h1 {
+    font-size: 2.5em;
+    color: #333;
+  }
+  
+  .jumbotron p {
+    font-size: 1.2em;
+  }
+  
+  /* Footer styles */
+  
+  footer {
+    background-color: #f5f5f5;
+  }
+  
+  footer p {
+    font-size: 0.9em;
+    color: #777;
+  }
+  
